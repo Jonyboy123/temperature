@@ -1,8 +1,8 @@
 //Jonathan Bohbot
 //260377050
 //McGill University
-//Friday September 14 2012
-//Assignment 1
+//Friday September 24 2012
+//Assignment 2
 //ECSE-321-001
 
 
